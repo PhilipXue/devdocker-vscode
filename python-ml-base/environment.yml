@@ -1,0 +1,8 @@
+  
+dependencies:
+    - numpy
+    - matplotlib
+    - scikit-learn
+    - pillow
+    - ffmpeg
+    - Cython
